@@ -2,8 +2,8 @@
 #include "time.h"
 
 // Wi-Fi credentials
-const char* ssid = "7567";
-const char* password = "bucket06";
+const char* ssid = "";
+const char* password = "";
 
 // Timezone settings
 struct tm timeinfo;
